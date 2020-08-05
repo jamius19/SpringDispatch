@@ -12,4 +12,5 @@ public class IndexController {
         model.addAttribute("title", "Hello World");
         return "index";
     }
+
 }
